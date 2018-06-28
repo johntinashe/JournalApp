@@ -8,6 +8,16 @@ Android 5.0 or later
 Testing apk download link here
 [Journal App](https://drive.google.com/open?id=18_hTNITBvgWYtMQaxP_mN03t8-RYYC-W)
 
+Welcome to the JournalApp wiki!
+Login Activity you can sign in with email and password or using an existing google account.
+![Login Activity](https://photos.app.goo.gl/pq6Bfyf9bn4T78L5A)
+
+All Journal entries 
+![all entries](https://drive.google.com/file/d/1zlY-glMXf4bgm9HOsW_ST_tqKckyIvHh/view?usp=sharing)
+
+Add new journal entry dialog
+![add entry](https://drive.google.com/file/d/15QXLIXe340f89snHv-3TeC5Zp-M6WZ9y/view?usp=sharing)
+
 
 # Authors
 John Tinashe Tsoro.
