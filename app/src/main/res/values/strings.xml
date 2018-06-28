@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Journal App</string>
+    <string name="background_image">background image</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? Sign up here</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="already_have_an_account">Already have an account? Login here.</string>
+    <string name="users_collection">users</string>
+    <string name="save_btn" tools:keep="@string/save_btn">Save</string>
+    <string name="logout">Logout</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="reset">Reset</string>
+    <string name="reset_email_sent">Reset email has been sent</string>
+    <string name="error_message">Field can\'t be empty!</string>
+    <string name="registering">Registering Wait!</string>
+    <string name="error_empty">Fields can\'t be empty!</string>
+    <string name="error_short_password">Password must be greater 6 or more characters!</string>
+    <string name="hint_title">Enter Title</string>
+    <string name="type_here">Type here…</string>
+    <string name="save">Save</string>
+    <string name="journals_collection">journals</string>
+    <string name="entry">Entry Saved</string>
+    <string name="not_internet">Looks like you are not connected!</string>
+    <string name="date_format">dd-MM-yyyy</string>
+    <string name="open_calender">open calender</string>
+    <string name="edit_button">edit button</string>
+    <string name="delete_button">delete button</string>
+</resources>
