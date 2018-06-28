@@ -10,7 +10,7 @@ Testing apk download link here
 
 Welcome to the JournalApp wiki!
 Login Activity you can sign in with email and password or using an existing google account.
-![Login Activity](https://photos.app.goo.gl/pq6Bfyf9bn4T78L5A)
+![Login Activity](https://www.dropbox.com/home?preview=Screenshot_20180628-155001_Journal+App.jpg)
 
 All Journal entries 
 ![all entries](https://drive.google.com/file/d/1zlY-glMXf4bgm9HOsW_ST_tqKckyIvHh/view?usp=sharing)
