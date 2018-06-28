@@ -3,8 +3,8 @@ Journal App is the perfect digital journal that keeps your memories private for 
 
 
 # Deployment
-Testing apk link down below
-<button>LInk </button>
+Testing apk download link here
+[Journal App](https://drive.google.com/open?id=18_hTNITBvgWYtMQaxP_mN03t8-RYYC-W)
 
 # Acknowledgements
 Wanna thank all my friends on slack under the ALCWithGoogle 3.0 who inspired me and helped during this course 🙂
