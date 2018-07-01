@@ -6,7 +6,7 @@ Journal App is the perfect digital journal that keeps your memories private for 
 ### Prerequisites
 Android 5.0 or later
 Testing apk download link here
-[Journal App](https://drive.google.com/open?id=1DdxdLU-15EiEBdYCEvBjLcgJfH5fpqFi)
+[Journal App](https://drive.google.com/open?id=1tadPNBSzaonJ3TwhXbrrtrlDXfvwBdqd)
 
 Welcome to the JournalApp wiki!
 Login Activity you can sign in with email and password or using an existing google account.
